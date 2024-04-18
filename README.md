@@ -31,7 +31,11 @@ numpy 1.22.0
 
 # Instructions for using TCN-BAPred
 (1)Store the bioactive peptide sequence in a fasta file
+
 (2)Set the fasta file address in the dataloader section of the code
+
 (3)Adjust parameter settings
+
 (4)Run TCN-BAPred
+
 
